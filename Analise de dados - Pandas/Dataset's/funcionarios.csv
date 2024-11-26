@@ -1,0 +1,51 @@
+ID_Funcionario,Nome,Departamento,Cargo,Salario_Mensal,Treinamentos_Realizados,Nota
+1,Pedro Dias,TI,Analista Júnior,6246.47,3,3.81
+2,Isaac Martins,RH,Analista Júnior,10074.94,4,2.78
+3,Alexia Aragão,Financeiro,Analista Júnior,7072.79,9,2.41
+4,Diego Correia,Inteligência e Análise de Crédito,Analista Pleno,12114.82,5,4.54
+5,Nicolas Campos,RH,Analista Sênior,11802.18,5,2.28
+6,Srta. Emilly Pinto,TI,Analista Sênior,12074.96,4,4.39
+7,Theo Melo,Financeiro,Analista Sênior,14615.19,8,1.62
+8,Sr. Davi Lucca Silva,Inteligência e Análise de Crédito,Analista Sênior,10421.74,10,4.02
+9,Maria Alice Martins,Inteligência e Análise de Crédito,Analista Júnior,10397.87,4,2.26
+10,Sr. Lucas Pires,Vendas,Analista Pleno,5801.27,10,4.09
+11,Joana Vieira,RH,Analista Sênior,4948.19,1,4.82
+12,Carolina Mendes,RH,Analista Sênior,3190.4,7,2.73
+13,João Vitor Monteiro,TI,Analista Júnior,6783.11,2,4.07
+14,Lucca Araújo,Financeiro,Analista Sênior,14961.35,4,3.32
+15,Pedro da Rocha,Financeiro,Analista Pleno,13824.08,9,3.87
+16,Renan Pires,RH,Analista Júnior,8249.72,3,2.82
+17,Maria Cecília Mendes,Vendas,Analista Pleno,8357.63,8,4.38
+18,Luiz Gustavo Araújo,Financeiro,Analista Pleno,8184.8,7,2.3
+19,Sr. Matheus Carvalho,RH,Analista Júnior,11830.12,2,4.98
+20,Ana Luiza Vieira,TI,Analista Pleno,6325.13,1,4.86
+21,Luiz Henrique Silva,Financeiro,Analista Pleno,7847.83,4,2.43
+22,Nicole Peixoto,Financeiro,Analista Júnior,3292.66,6,1.71
+23,Eloah Moraes,Inteligência e Análise de Crédito,Analista Júnior,5264.17,4,1.85
+24,Catarina Porto,Vendas,Analista Pleno,5350.04,1,1.31
+25,Enzo da Rocha,Financeiro,Analista Sênior,11175.34,3,4.93
+26,Giovanna Jesus,TI,Analista Sênior,5135.93,3,4.43
+27,Sr. Isaac da Mata,TI,Analista Sênior,4010.27,10,4.55
+28,Dra. Ana Carolina Nascimento,Vendas,Analista Sênior,3944.48,9,1.12
+29,Anthony Farias,RH,Analista Pleno,7094.71,3,4.14
+30,Ana Laura da Rosa,Vendas,Analista Júnior,3098.32,9,2.0
+31,Sr. Henrique Cardoso,Vendas,Analista Júnior,9844.58,10,2.95
+32,Vitor Hugo Cavalcanti,TI,Analista Júnior,12833.21,4,1.5
+33,Benício Souza,Financeiro,Analista Pleno,8019.97,10,2.91
+34,Gustavo Silveira,Inteligência e Análise de Crédito,Analista Pleno,7001.71,2,3.66
+35,Sr. Guilherme da Luz,Inteligência e Análise de Crédito,Analista Júnior,7882.59,2,2.13
+36,Francisco Pires,RH,Analista Pleno,7974.41,5,3.9
+37,Eloah Monteiro,RH,Analista Sênior,14010.73,6,2.31
+38,Lívia Lopes,RH,Analista Júnior,9700.27,5,2.35
+39,Natália Teixeira,Financeiro,Analista Pleno,4415.68,8,2.21
+40,Lucas Gabriel da Mota,TI,Analista Júnior,10565.07,2,3.4
+41,Felipe Melo,RH,Analista Sênior,7413.57,4,4.8
+42,Luiz Gustavo Almeida,RH,Analista Júnior,13184.71,2,2.8
+43,Dr. Murilo Moura,Inteligência e Análise de Crédito,Analista Sênior,10310.48,3,4.18
+44,Maysa Gonçalves,Financeiro,Analista Pleno,10563.09,8,4.57
+45,Yasmin Peixoto,Inteligência e Análise de Crédito,Analista Pleno,3619.63,4,4.35
+46,Juan Viana,Inteligência e Análise de Crédito,Analista Sênior,9746.36,7,3.61
+47,Sofia Mendes,RH,Analista Sênior,11343.66,10,1.9
+48,Julia Peixoto,Inteligência e Análise de Crédito,Analista Pleno,11694.17,6,4.09
+49,Dr. Enzo Peixoto,Vendas,Analista Sênior,4837.5,3,2.16
+50,Rebeca da Mata,Financeiro,Analista Pleno,10512.69,10,1.61
